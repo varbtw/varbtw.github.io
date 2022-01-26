@@ -1,0 +1,25 @@
+.header{
+    margin: 0;
+    text-align: center;
+    padding: 30px;
+    list-style-type: none;
+    color: #2192B2;
+    background: #0f0f0f
+
+}
+
+.header li{
+    display: inline;
+    padding: 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 200%;
+}
+
+.header li:hover{
+    background-color: gray;
+}
+
+.body{
+    margin: 0;
+    background: #171717
+}
